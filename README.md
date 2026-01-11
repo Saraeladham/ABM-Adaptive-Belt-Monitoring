@@ -91,12 +91,12 @@ A demo video demonstrating:
 📁 Available in: demo/ABM Demo Video.mp4
 
 Team Members
-    Sara Hassan Mohamed — AI Engineer
-    Dalia Abdelmonem — AI Engineer
-    Mohamed Magdy — AI Engineer
-    Ramy Elhosary — Integration Engineer
-    Ahmed Mostafa — Unity Developer
-    Youssef Osama — Automation Engineer
+- Sara Hassan Mohamed — AI Engineer
+- Dalia Abdelmonem — AI Engineer
+- Mohamed Magdy — AI Engineer
+- Ramy Elhosary — Integration Engineer
+- Ahmed Mostafa — Unity Developer
+- Youssef Osama — Automation Engineer
 
 License
 This project is shared for educational and research purposes. 
