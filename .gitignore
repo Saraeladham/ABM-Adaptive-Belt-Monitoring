@@ -1,0 +1,12 @@
+venv/
+data/
+logs/
+__pycache__/
+*.h5
+*.pt
+*.onnx
+*.ckpt
+.vscode/
+# Trained ML artifacts
+*.pkl
+*.npy
